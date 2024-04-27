@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "name": "ge5h6jJavaScript data types and data structures",
+      "name": "0.1 — Introduction to these tutorials",
       "date": "2024/03/21",
       "url": "test1.md",
-      "summary": " Programmings langua available in\n                        JavaScript and what properties they have. These can be used to build other data structures.\n                        Wherever possible, comparisons with other languages are drawn.\n\n                        Dynamic typing\n                        JavaScript is a loosely typed and dynamic language. Variables in JavaScript are not directly\n                        associated with any particular value type, and any variable can be assigned (and re-assigned)\n                        values of all types:\n\n                        let foo = 42; // foo is now a number\n                        foo = 'bar'; // foo is now a string\n                        foo = true; // foo is now a boolean"
+      "summary": "Welcome to the Learn C++ tutorials! Above all else, these tutorials aim to make learning C++ easy.\n\nUnlike many other sites and books, these tutorials don’t assume you have any prior programming experience. We’ll teach you everything you need to know as you progress, with lots of examples along the way.\n\nWhether you’re interested in learning C++ as a hobby or for professional development, you’re in the right place!"
 
     },
     {
-      "name": "efwefgeJavaScript data types and data structures",
+      "name": "0.2 — Introduction to programming languages",
       "url": "test2.md",
-      "date": "2024/03/21",
-      "summary": " Programming languages all have built-in data structuress article attempts to list the built-in data structures available in\n                        JavaScript and what properties they have. These can be used to build other data structures.\n                        Wherever possible, comparisons with other languages are drawn.\n\n                        Dynamic typing\n                        JavaScript is a loosely typed and dynamic language. Variables in JavaScript are not directly\n                        associated with any particular value type, and any variable can be assigned (and re-assigned)\n                        values of all types:\n\n                        let foo = 42; // foo is now a number\n                        foo = 'bar'; // foo is now a string\n                        foo = true; // foo is now a boolean"
+      "date": "2024/03/24",
+      "summary": "Modern computers are incredibly fast, and getting faster all the time. However, computers also have some significant constraints: they only natively understand a limited set of commands, and must be told exactly what to do."
 
     },
     {
