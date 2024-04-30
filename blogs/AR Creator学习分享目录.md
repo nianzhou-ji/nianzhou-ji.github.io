@@ -1,3 +1,9 @@
+# 摘要
+
+AR Creator学习分享资料整理
+
+
+
 # 1.  学习分享目录 
 
 ## 1.1  HUD的产品介绍
@@ -6,7 +12,7 @@
 
 
 
- ![image-20240430165426612](https://raw.githubusercontent.com/nianzhou-ji/JpPics/main/assets/beb5a75d-06d0-11ef-a98d-005056c00008.png)
+ ![image-20240430165426612](https://raw.githubusercontent.com/nianzhou-ji/JpPics/main/assets/726f3f3f-06d2-11ef-9dd6-005056c00008.png)
 
 ​                               
 
@@ -16,7 +22,7 @@
 
 放一张流程图
 
-![image-20240430165438355](https://raw.githubusercontent.com/nianzhou-ji/JpPics/main/assets/c056b965-06d0-11ef-83bf-005056c00008.png)
+![image-20240430165438355](https://raw.githubusercontent.com/nianzhou-ji/JpPics/main/assets/7409f5de-06d2-11ef-a258-005056c00008.png)
 
  
 
@@ -24,9 +30,9 @@
 
 放一张框图
 
-![image-20240430165446290](https://raw.githubusercontent.com/nianzhou-ji/JpPics/main/assets/c1dc8b51-06d0-11ef-b988-005056c00008.png)
+![image-20240430165446290](https://raw.githubusercontent.com/nianzhou-ji/JpPics/main/assets/7581bf46-06d2-11ef-a5b3-005056c00008.png)
 
-![image-20240430165454035](https://raw.githubusercontent.com/nianzhou-ji/JpPics/main/assets/c37e650c-06d0-11ef-8d61-005056c00008.png)
+![image-20240430165454035](https://raw.githubusercontent.com/nianzhou-ji/JpPics/main/assets/772367be-06d2-11ef-a5cb-005056c00008.png)
 
 
 
@@ -52,7 +58,7 @@ C++、Qt、Linux、openGL，分别介绍学习的重点内容
 
 目录：
 
-![image-20240430165526413](https://raw.githubusercontent.com/nianzhou-ji/JpPics/main/assets/c4f58d71-06d0-11ef-b43a-005056c00008.png)
+![image-20240430165526413](https://raw.githubusercontent.com/nianzhou-ji/JpPics/main/assets/78ed4aa6-06d2-11ef-b344-005056c00008.png)
 
    
 
