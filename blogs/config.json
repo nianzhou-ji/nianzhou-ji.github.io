@@ -56,11 +56,11 @@
     },
     {
       "id": "151sfaewgw1451541gg48w4g832f",
-      "name": "safawfaewJavaScript data types and data structures ypes and data structuresypes and data structuresypes and data structures",
-      "url": "test3.md",
-      "date": "2024/03/21",
-      "summary": "ata structures, but these often differ from one\n                        language to another. This article attempts to list the built-in data structures available in\n                        JavaScript and what properties they have. These can be used to build other data structures.\n                        Wherever possible, comparisons with other languages are drawn.\n\n                        Dynamic typing\n                        JavaScript is a loosely typed and dynamic language. Variables in JavaScript are not directly\n                        associated with any particular value type, and any variable can be assigned (and re-assigned)\n                        values of all types:\n\n                        let foo = 42; // foo is now a number\n                        foo = 'bar'; // foo is now a string\n                        foo = true; // foo is now a boolean",
-      "tags": ["JAVASCRIPT"]
+      "name": "markdown images upload to github ",
+      "url": "githubPic.md",
+      "date": "2024/04/30",
+      "summary": "不看也不妨碍配置环境，因为我会一步步教你配置。（但我希望你还是看一下，毕竟我写了好久🤣）",
+      "tags": ["CPP"]
 
     }
   ]
