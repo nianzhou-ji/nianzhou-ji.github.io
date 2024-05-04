@@ -1,24 +1,13 @@
 {
   "assets": [
     {
-      "id": "726ef163-06d2-11ef-8f48-005056c00008",
-      "name": "AR Creator\u5b66\u4e60\u5206\u4eab\u76ee\u5f55",
-      "url": "AR Creator\u5b66\u4e60\u5206\u4eab\u76ee\u5f55.md",
-      "date": "2024/04/30 16:53:35",
-      "summary": "AR Creator学习分享资料整理",
+      "id": "e6c1ab47-09bc-11ef-9bab-94e6f742f76c",
+      "name": "test1",
+      "url": "test1.md",
+      "date": "2024/05/04 10:17:08",
+      "summary": "Test image",
       "tags": [
-        "AR Creator",
-        "CPP"
-      ]
-    },
-    {
-      "id": "7aa1527a-06d2-11ef-9fb2-005056c00008",
-      "name": "pycharm\u914d\u7f6eexternal tools",
-      "url": "pycharm\u914d\u7f6eexternal tools.md",
-      "date": "2024/04/30 16:56:48",
-      "summary": "在Pycharm中配置PyQt5的designer、ui2py、rcc2py工具",
-      "tags": [
-        "Pycharm","PtQt5"
+        "Test"
       ]
     }
   ]
