@@ -90,7 +90,7 @@
       "name": "AR Creator\u5b66\u4e60\u5206\u4eab\u76ee\u5f55",
       "url": "AR Creator\u5b66\u4e60\u5206\u4eab\u76ee\u5f55.md",
       "date": "2024/04/30 16:53:35",
-      "summary": "AR Creator 学习资源分享",
+      "summary": "AR Creator \u5b66\u4e60\u8d44\u6e90\u5206\u4eab",
       "tags": [
         "AR Creator"
       ]
@@ -100,9 +100,60 @@
       "name": "pycharm\u914d\u7f6eexternal tools",
       "url": "pycharm\u914d\u7f6eexternal tools.md",
       "date": "2024/04/30 16:56:48",
-      "summary": "PyCharm配置PyQt5的资源转换、UI转换、设计器的external tools，方便快捷打开",
+      "summary": "PyCharm\u914d\u7f6ePyQt5\u7684\u8d44\u6e90\u8f6c\u6362\u3001UI\u8f6c\u6362\u3001\u8bbe\u8ba1\u5668\u7684external tools\uff0c\u65b9\u4fbf\u5feb\u6377\u6253\u5f00",
       "tags": [
-        "PyCharm" ,"PyQt5"
+        "PyCharm",
+        "PyQt5"
+      ]
+    },
+    {
+      "id": "42a754cd-0b7c-11ef-9565-005056c00008",
+      "name": "pycharm\u5de5\u7a0b\u79fb\u52a8-\u7ec8\u7aef\u547d\u4ee4\u6267\u884c\u5f02\u5e38",
+      "url": "pycharm\u5de5\u7a0b\u79fb\u52a8-\u7ec8\u7aef\u547d\u4ee4\u6267\u884c\u5f02\u5e38.md",
+      "date": "2024/05/06 14:20:12",
+      "summary": "pycharm工程移动-终端命令执行异常解决办法",
+      "tags": [
+        "PyCharm"
+      ]
+    },
+    {
+      "id": "42b06224-0b7c-11ef-b580-005056c00008",
+      "name": "python logging\u65e5\u5fd7\u6a21\u5757\u521d\u63a2",
+      "url": "python logging\u65e5\u5fd7\u6a21\u5757\u521d\u63a2.md",
+      "date": "2024/05/06 14:39:00",
+      "summary": "python logging日志模块初探",
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "id": "42b82a14-0b7c-11ef-afa3-005056c00008",
+      "name": "python \u865a\u62df\u673a",
+      "url": "python \u865a\u62df\u673a.md",
+      "date": "2024/05/06 14:43:21",
+      "summary": "python 虚拟机介绍",
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "id": "42bda703-0b7c-11ef-ada8-005056c00008",
+      "name": "python\u8def\u5f84\u64cd\u4f5c\u65b0\u6807\u51c6\uff1apathlib \u6a21\u5757",
+      "url": "python\u8def\u5f84\u64cd\u4f5c\u65b0\u6807\u51c6\uff1apathlib \u6a21\u5757.md",
+      "date": "2024/05/06 14:32:35",
+      "summary": "python路径操作新标准：pathlib 模块介绍",
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "id": "42d6862f-0b7c-11ef-8c35-005056c00008",
+      "name": "Ubuntu \u201cCould not get lock varlibdpkglock-frontend\u201d \u95ee\u9898\u89e3\u51b3",
+      "url": "Ubuntu \u201cCould not get lock varlibdpkglock-frontend\u201d \u95ee\u9898\u89e3\u51b3.md",
+      "date": "2024/05/06 14:48:23",
+      "summary": "Ubuntu “Could not get lock varlibdpkglock-frontend” 问题解决",
+      "tags": [
+        "Ubuntu"
       ]
     }
   ]
