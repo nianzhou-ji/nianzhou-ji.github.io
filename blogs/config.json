@@ -80,9 +80,29 @@
       "name": "git\u5e38\u7528\u64cd\u4f5c\u6307\u5357",
       "url": "git\u5e38\u7528\u64cd\u4f5c\u6307\u5357.md",
       "date": "2024/05/04 16:20:46",
-      "summary": "git常用操作指南",
+      "summary": "git\u5e38\u7528\u64cd\u4f5c\u6307\u5357",
       "tags": [
         "Git"
+      ]
+    },
+    {
+      "id": "8e3d4b06-0b6c-11ef-9bcd-005056c00008",
+      "name": "AR Creator\u5b66\u4e60\u5206\u4eab\u76ee\u5f55",
+      "url": "AR Creator\u5b66\u4e60\u5206\u4eab\u76ee\u5f55.md",
+      "date": "2024/04/30 16:53:35",
+      "summary": "AR Creator 学习资源分享",
+      "tags": [
+        "AR Creator"
+      ]
+    },
+    {
+      "id": "8e4efe3f-0b6c-11ef-80fd-005056c00008",
+      "name": "pycharm\u914d\u7f6eexternal tools",
+      "url": "pycharm\u914d\u7f6eexternal tools.md",
+      "date": "2024/04/30 16:56:48",
+      "summary": "PyCharm配置PyQt5的资源转换、UI转换、设计器的external tools，方便快捷打开",
+      "tags": [
+        "PyCharm" ,"PyQt5"
       ]
     }
   ]
