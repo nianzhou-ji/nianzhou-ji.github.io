@@ -1,6 +1,15 @@
 {
   "assets": [
-
+    {
+      "id": "faqcd28-06ef-11jf-8126-9456f742f77c",
+      "name": "Python 下载电子书.md",
+      "url": "Python 下载电子书.md",
+      "date": "2024/05/21 15:26:48",
+      "summary": "Python批量下载电子书",
+      "tags": [
+        "电子书"
+      ]
+    },
     {
       "id": "fa2cd28-09ef-11ef-8f26-94e6f742f77c",
       "name": "Android Automotive OS The Architecture",
@@ -12,9 +21,6 @@
         "Android"
       ]
     },
-
-
-
     {
       "id": "fa0bcd28-09ef-11ef-8f26-94e6f742f76c",
       "name": "606\u9879\u76ee\u5173\u952e\u6280\u672f\u70b9",
