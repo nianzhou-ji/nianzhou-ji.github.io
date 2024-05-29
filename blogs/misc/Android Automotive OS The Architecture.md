@@ -14,7 +14,7 @@ Lets dive deep and shed light on some of the more technical aspects of Google’
 
 In order to understand the individual components and the added value of the operating system, we want to give a brief overview of its structure.
 
-![img](./Android Automotive OS The Architecture.assets/1fsweF4Bg8C-GgglIr25Wpg.png)
+![img](./blogs/misc/Android Automotive OS The Architecture.assets/1fsweF4Bg8C-GgglIr25Wpg.png)
 
 ​																					Figure: Abstract layer architecture of Android Automotive
 
