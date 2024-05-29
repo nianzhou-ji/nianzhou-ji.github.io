@@ -1,6 +1,18 @@
 {
   "assets": [
     {
+      "id": "faqcd28-03ef-11jf-8126-9456io42f77c",
+      "name": "软件设计原则和设计模式.md",
+      "url": "软件工程/软件设计原则和设计模式.md",
+      "date": "2024/05/29 18:46:48",
+      "summary": "软件设计原则和设计模式概述",
+      "tags": [
+        "软件工程"
+      ]
+    },
+
+    
+    {
       "id": "faqcd28-06ef-11jf-8126-9456f742f77c",
       "name": "Python \u4e0b\u8f7d\u7535\u5b50\u4e66.md",
       "url": "\u5de5\u5177\u4ee3\u7801/Python \u4e0b\u8f7d\u7535\u5b50\u4e66.md",
