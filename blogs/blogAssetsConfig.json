@@ -129,7 +129,7 @@
     {
       "id": "8e4efe3f-0b6c-11ef-80fd-005056c00008",
       "name": "pycharm配置external tools",
-      "url": "PyCharm/PyCharm/pycharm配置external tools.md",
+      "url": "PyCharm/pycharm配置external tools.md",
       "date": "2024/04/30 16:56:48",
       "summary": "PyCharm配置PyQt5的资源转换、UI转换、设计器的external tools，方便快捷打开",
       "tags": [
@@ -140,7 +140,7 @@
     {
       "id": "42a754cd-0b7c-11ef-9565-005056c00008",
       "name": "pycharm工程移动-终端命令执行异常",
-      "url": "PyCharm/PyCharm/pycharm工程移动-终端命令执行异常.md",
+      "url": "PyCharm/pycharm工程移动-终端命令执行异常.md",
       "date": "2024/05/06 14:20:12",
       "summary": "pycharm工程移动-终端命令执行异常解决办法",
       "tags": [
