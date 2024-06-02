@@ -1,6 +1,17 @@
 {
   "assets": [
 
+       {
+      "id": "34qcd28-03ef-11jf-8126-9456ioqmf77c",
+      "name": "test.md",
+      "url": "misc/test.md",
+      "date": "2024/06/02 09:27:48",
+      "summary": "test",
+      "tags": [
+        "Test"
+      ]
+    },
+
 
    {
       "id": "q3qcd28-03ef-11jf-8126-9456ioqmf77c",
