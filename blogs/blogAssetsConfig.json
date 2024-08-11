@@ -1,5 +1,17 @@
 {
   "assets": [
+
+    {
+      "id": "qe7897fs28-03ef-1179-8126-945lc34563477c",
+      "name": "Docker 配置全局代理",
+      "url": "docker/docker 配置全局代理.md",
+      "date": "2024/08/11 12:27:48",
+      "summary": "Docker 配置全局代理，方便下载国外仓库镜像",
+      "tags": [
+        "Docker"
+      ]
+    },
+    
     {
       "id": "qe432vfs28-03ef-1179-8126-945lcndvsdvgf77c",
       "name": "一个简洁响应式的个人博客模板",
