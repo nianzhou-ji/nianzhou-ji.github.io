@@ -1,7 +1,5 @@
 {
   "assets": [
-
-
     {
       "id": "cvbfs28-03ef-1179-8126-945345345477c",
       "name": "PySide6 添加自定义组件到Designer中",
@@ -9,12 +7,10 @@
       "date": "2024/09/22 21:34:48",
       "summary": "PySide6 添加自定义组件到Designer中",
       "tags": [
-          "PySide",
-               "QDesigner",
+        "PySide",
+        "QDesigner"
       ]
     },
-    
-
     {
       "id": "cvbfs28-03ef-1179-8126-945lc34563477c",
       "name": "WSL2 子系统部署",
@@ -22,12 +18,9 @@
       "date": "2024/08/12 18:34:48",
       "summary": "WSL2 子系统部署与常见问题解决",
       "tags": [
-          "Docker"
+        "Docker"
       ]
     },
-
-
-    
     {
       "id": "asdffs28-03ef-1179-8126-945lc34563477c",
       "name": "1-设计模式与面向对象",
