@@ -2,7 +2,7 @@
 
 1. 新建clion工程:cpp_module_math_lib和pycharm工程:testPyBind，目录结构如下：
 
-![image-20240926164411854](采用PyCharm和Clion结合Pybind编写Pyd模块.assets/image-20240926164411854-17273414569303.png)
+![image-20240926164411854](采用PyCharm和Clion结合Pybind编写Pyd模块.assets/image-20240926164411854.png)
 
 1. ```shell
    pip install colorama==0.4.6 pybind11==2.13.6 pybind11-stubgen==2.5.1 pypng==0.20220715.0 typing_extensions==4.12.2
@@ -113,4 +113,4 @@ print(f"result_div: {result_div}")
 
 **备注：记得添加生成的到sys.path中**
 
-![image-20240926164853706](采用PyCharm和Clion结合Pybind编写Pyd模块.assets/image-20240926164853706.png)
+![image-20240926164853706](采用PyCharm和Clion结合Pybind编写Pyd模块.assets/image-20240926164853706.png)  
