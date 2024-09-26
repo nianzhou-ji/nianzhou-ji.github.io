@@ -114,3 +114,9 @@ print(f"result_div: {result_div}")
 **备注：记得添加生成的到sys.path中**
 
 ![image-20240926164853706](采用PyCharm和Clion结合Pybind编写Pyd模块.assets/image-20240926164853706.png)  
+
+
+
+# 案例文件
+
+链接: https://pan.baidu.com/s/1SFC8h0WaoV-dklqNv1VM_A?pwd=ngaw 提取码: ngaw 复制这段内容后打开百度网盘手机App，操作更方便哦
