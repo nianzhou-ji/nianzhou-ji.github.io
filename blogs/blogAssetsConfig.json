@@ -1,6 +1,18 @@
 {
   "assets": [
     {
+      "id": "cvwefw28-03ef-1179-8906-945345345477c",
+      "name": "采用PyCharm和Clion结合Pybind编写Pyd模块",
+      "url": "Python/采用PyCharm和Clion结合Pybind编写Pyd模块.md",
+      "date": "2024/09/26 21:34:48",
+      "summary": "采用PyCharm和Clion结合Pybind编写Pyd模块",
+      "tags": [
+        "PyCharm",
+        "Clion",
+        "Pybind"
+      ]
+    },
+    {
       "id": "cvbfs28-03ef-1179-8126-945345345477c",
       "name": "PySide6 添加自定义组件到Designer中",
       "url": "PySide/PySide6 添加自定义组件到Designer中.md",
