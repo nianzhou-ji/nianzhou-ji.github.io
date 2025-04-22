@@ -1,6 +1,16 @@
 {
   "assets": [
     {
+      "id": "23432vfs28-03ef-1179-8126-9456io13sdvs234rr",
+      "name": "树莓派boot config配置文件解释",
+      "url": "树莓派/树莓派boot config配置文件解释.md",
+      "date": "2025/04/22 10:19:48",
+      "summary": "树莓派boot config配置文件解释",
+      "tags": [
+        "树莓派"
+      ]
+    },
+    {
       "id": "23432vfs28-03ef-1179-8126-9456io13sdvsdvgf77c",
       "name": "Markdown 全面特性测试",
       "url": "test/Markdown 全面特性测试.md",
@@ -128,7 +138,6 @@
         "个人开源项目"
       ]
     },
-
     {
       "id": "qcxggrfs28-03ef-1179-8126-9456io13sdvsdvgf78c",
       "name": "HUD-自动光学测试系统操作说明文档",
@@ -139,8 +148,6 @@
         "个人工作产品说明"
       ]
     },
-
-    
     {
       "id": "qerggrfs28-03ef-1179-8126-9456io13sdvsdvgf77c",
       "name": "自研仿真流程集成和参数优化框架以及案例实践",
