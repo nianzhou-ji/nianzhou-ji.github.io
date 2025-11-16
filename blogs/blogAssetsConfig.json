@@ -305,6 +305,16 @@
       ]
     },
     {
+      "id": "fa3f88fe-09ef-11ef-83c1-94e6f742f73c",
+      "name": "Ubuntu24.04系统中文输入升级玩法——雾凇拼音（Rime 配置）",
+      "url": "Ubuntu/Ubuntu24.04系统中文输入升级玩法——雾凇拼音（Rime 配置）.md",
+      "date": "2025/11/16 17:21:46",
+      "summary": "Ubuntu24.04系统中文输入升级玩法——雾凇拼音（Rime 配置）",
+      "tags": [
+        "Ubuntu"
+      ]
+    },
+    {
       "id": "fa3f07fe-09ef-11ef-83c1-94e6f742f76c",
       "name": "Ubuntu交叉编译boost ARM64步骤",
       "url": "Ubuntu/Ubuntu交叉编译boost ARM64步骤.md",
@@ -3458,3 +3468,4 @@
     }
   ]
 }
+
